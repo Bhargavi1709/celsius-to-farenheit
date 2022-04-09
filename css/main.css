@@ -1,0 +1,12 @@
+.tabla {
+  outline: 1px solid gray;
+}
+td {
+  outline: 1px solid gray;
+}
+body {
+  background-color: lightblue;
+}
+table {
+  background-color: #f5da81;
+}
