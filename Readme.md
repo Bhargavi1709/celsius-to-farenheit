@@ -1,4 +1,4 @@
-# CELSIUSTOFARENHEIT
+# CELSIUS TO FARENHEIT
 
 Utility script to build HTML documents - Appends scripts and styles, removes debug parts, append HTML partials, template options, etc.
 
