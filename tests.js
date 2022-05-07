@@ -1,6 +1,7 @@
 const chai = window.chai
 const expect = chai.expect
  <! –– Fixed failed unit testing––> 
+  <!...Now the code is changes....>
 
 describe('getCelcius', () => {
   it('should convert farenheit to celcius for all values in an array', () => {
