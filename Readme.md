@@ -4,7 +4,7 @@ Utility script to build HTML documents - Appends scripts and styles, removes deb
 
 ## Installation
 
-Install this script as a dev dependency.
+Install this script as a dev dependency
 
 ```bash
 $ npm install html-build --save-dev
